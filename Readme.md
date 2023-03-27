@@ -1,4 +1,4 @@
-The gradio webapp relies on three pickle files that are created in a jupyter notebook. The gradio webapp file is as follows: "gradio.app.py".
+The gradio webapp relies on three pickle files that are created in a jupyter notebook. The gradio webapp file is as follows: "gradio_app.py".
 All the details about the above-mentioned jupyter notebook and the pickle files are reported below. 
 
 Jupyter notebook: 
